@@ -1,5 +1,5 @@
 <h1 align="center">
-     🎲 <a href="#" alt="site do ecoleta"> Dado </a>
+     🎲 <a href="#" alt="dado"> Dado </a>
 </h1>
 
 <h3 align="center">
@@ -36,19 +36,10 @@ Programa que busca simular um dado de seis lados sendo lançado, podendo ser rep
 ## 🚀 Como executar o projeto
 É bom ter um editor para trabalhar com o código como [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 
-
-
-
-
-
 ---
 
 ## 🛠 Tecnologias
 Esta aplicação utiliza Python 3 e a biblioteca Random
-
-
-
-
 
 ## 🦸 Autor
 Antônio Zilli Zanolli
